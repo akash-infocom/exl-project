@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+ padding:0;
+ color: red;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.pdf-container {
+  width: 900px;
+  margin-top: 94px;
+  margin-left: 44px;
+
+}
+
+.view-container {
+  height: 100px;
+  color: rgb(79, 165, 235);
+  padding-top: 40px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.newcontainer
+{
+  margin-top: 30px;
+}
+.newinput {
+  margin-top: 10px;
+
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+#root>div {
+  background: #dcdcdc;
+  margin: 0 auto;
+  width: 980px;
+}
